@@ -1,13 +1,16 @@
-# Pixellari
+# Pixellari Cyrillic
 [![License: Open Font-1.1](https://img.shields.io/badge/License-OFL%201.1-lightgreen.svg)](https://opensource.org/licenses/OFL-1.1)
 
-A simple pixel font that's 100% free to use. The only thing I ask for is credit, if possible.
+A simple pixel font that's 100% free to use, now with Cyrillic characters support. The only thing I ask for is credit for me and the original author, if possible.
 
 Created on 2017-01-07 using the awesome free font-making tool, [BitFontMaker 2](http://www.pentacom.jp/pentacom/bitfontmaker2/).
 
-If you're looking to download it, please consider downloading from [Dafont][font-link] if possible, as it makes it more popular on the website. :)
+Edited on 2021-03-13 using the same tool to add Cyrillic characters as I didn't want to see default Roboto font fallback in the game I anticipated.
 
-![Hi Github! :)](https://img.dafont.com/preview_bitmap.php?text=Hi+GitHub%21+%3A%29&ttf=pixellari0&ext=1&size=12)
+![Font Preview (Original)](preview/original.png)
+![Font Preview (Cyrillic)](preview/cyrillic.png)
+
+If you're looking to download the original font, please consider downloading from [Dafont][font-link] if possible, as it makes it more popular on the website. :)
 
 ### [Link][font-link]
 
@@ -28,6 +31,7 @@ If you're looking to download it, please consider downloading from [Dafont][font
 - **[Circuit Rush](https://lucky89-games.itch.io/circuit-rush)**
 - **[Pixel Fishing](https://play.google.com/store/apps/details?id=com.irchit_dev.pixelfishing&hl=en_US)**
 - **[Robert Myers' Moxybox](https://robertjaymyers.github.io/apps/moxybox-game.html)**
+- **[Intravenous](https://store.steampowered.com/app/1486630/Intravenous/)** (Cyrillic variant; the font edit was initially made for this game)
 
 *...and more!*
 
